@@ -1,6 +1,6 @@
-# Hi there, my name is Joaquin and this is a react project
+# Hi there, my name is Joaquin and this is a basic react project.
 
-I mainly implemented the use of useState hook along with other things.
+I mainly implemented the use of useState hook along with other simple things.
 
 Deployed on: https://react-birthday-reminder-three.vercel.app/
 
